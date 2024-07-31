@@ -9,4 +9,4 @@ This project looks at how crypto currencies are performing relative to BTC. Key 
 - Ranking price change movements
 
 ## Historical Crypto Prices
-![image](https://github.com/user-attachments/assets/10388086-870e-4997-ad37-fe2649b61d3d)
+![image](https://github.com/user-attachments/assets/a14d0808-f822-4255-b652-0cae3b18eba5)
